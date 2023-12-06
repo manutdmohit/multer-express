@@ -1,5 +1,5 @@
 # multer-express  
- Upload images to Cloudinary using Express and Cloudinary  
+ Upload images to Cloudinary using Express and Multer
 
 .env
 ```
